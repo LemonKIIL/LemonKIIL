@@ -1,16 +1,13 @@
-## Hi there 👋
+# Lilith · @lemonkiil
 
-<!--
-**LemonKIIL/LemonKIIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML security researcher. Focused on incomplete 
+security fixes in ML frameworks and LLM applications.
 
-Here are some ideas to get you started:
+**Areas:** deserialization · path traversal · IDOR · XSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Active reports:**
+- Path Traversal in joblib via NDArrayWrapper.filename
+- Keras h5py.ExternalLink bypassing CVE-2025-9905 fix
+
+**Profiles:**
+- [huntr.com/users/lemonkiil](https://huntr.com/users/lemonkiil)
